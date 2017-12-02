@@ -1,2 +1,3 @@
 # Hello-World
-M first repo
+My first repo
+This is my first commit
